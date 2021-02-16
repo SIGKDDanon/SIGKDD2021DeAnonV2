@@ -1,5 +1,5 @@
 # Requirements
 # Running Simulations
-In the folder XX we have provided shell scripts to run simulations. 
+In the folder PostDiffMixture/simulations_folder/simulation_scripts we have provided shell scripts to run simulations. 
 # Analyzing Simulations
 
