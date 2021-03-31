@@ -1,6 +1,6 @@
 # Requirements
-pandas==1.1.5
-\n ipdb==0.13.2
+pandas==1.1.5 \
+ipdb==0.13.2
 scipy==1.4.1
 numpy==1.18.1
 statsmodels==0.11.0
