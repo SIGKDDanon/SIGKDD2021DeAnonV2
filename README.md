@@ -1,5 +1,11 @@
 # Requirements
-Coming Soon
+pandas==1.1.5
+ipdb==0.13.2
+scipy==1.4.1
+numpy==1.18.1
+statsmodels==0.11.0
+matplotlib==3.1.2
+
 # Running Simulations
 In the folder PostDiffMixture/simulations_folder/simulation_scripts we have provided shell scripts to run simulations. See the contained README.txt (PostDiffMixture/simulations_folder/simulation_scripts/README.txt) for a description of each shell script. 
 # Analyzing Simulations
