@@ -18,7 +18,7 @@ PostDiffMixture/simulations_folder/simulation_saves
 
 You can then analyze these simulations using the python scripts in the folder 
 
-/PostDiffMixture/simulations_folder/simulation_analysis_scripts. 
+PostDiffMixture/simulations_folder/simulation_analysis_scripts. 
 
 For a description of each file, see the contained README.txt:
 
